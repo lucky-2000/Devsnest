@@ -1,0 +1,98 @@
+.clock {
+  height:300px;
+  width:300px;
+  background:white;
+  border-radius:100%;
+  margin-left: 400px;
+  margin-top:130px;
+  border:20px solid #b06a26; 
+box-shadow: inset 08px 10px 40px black;
+
+
+
+}
+.hours{
+height:20px;
+width:20px;
+border-radius:50%;
+background: #b06a26;
+margin-top:43%;
+margin-left:46%;
+position: static;
+
+
+
+}
+/*.six{
+height:15px;
+width:15px;
+border-radius:50%;
+background: black;
+
+margin-left:14%;
+margin-top:1324%;
+position:static;
+ 
+
+}
+.three{
+height:15px;
+width:15px;
+border-radius:50%;
+background: black;
+margin-left:143px;
+margin-top:-20px;
+
+}
+.nine{
+height:15px;
+width:15px;
+border-radius:50%;
+background: black;
+margin-left:-136px;
+
+
+}
+.twelve{
+height:15px;
+width:15px;
+border-radius:50%;
+background: black;
+margin-top:-169px;
+
+}*/
+.minutes{
+height:115px;
+width:3.5px;
+background: black;
+
+margin-left:147px;
+border-radius:0px 0px 20px 20px;
+margin-top:px;
+
+
+}
+.hour_hand{
+height:80px;
+width:3.5px;
+background: black;
+
+margin-left:166px;
+margin-top:-210px;
+transform: rotate(20deg);
+
+border-radius:20px 20px 0px 0px;
+}
+.seconds{
+height:130px;
+width:1.5px;
+background: black;
+
+margin-left:124px;
+margin-top:11px;
+transform: rotate(20deg);
+
+
+border-radius:20px 20px 0px 0px;
+
+}
